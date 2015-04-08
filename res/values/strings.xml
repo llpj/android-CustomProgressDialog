@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Custom Progress Dialog</string>
+    <string name="button_show_custom_progress_dialog">Show Custom Progress Dialog</string>
+
+</resources>

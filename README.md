@@ -1,2 +1,2 @@
 # android-dev
-Android related examples
+This repository contains android related examples

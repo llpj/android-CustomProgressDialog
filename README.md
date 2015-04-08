@@ -1,2 +1,2 @@
 # android-CustomProgressDialog
-Android Custom Progress Dialog
+This repository contains android custom progress dialog example.
